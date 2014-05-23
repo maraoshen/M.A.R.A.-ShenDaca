@@ -1,0 +1,236 @@
+{"stores":[
+  {
+    "Category":">Banks & ATMS",
+    "name":"BPI Branch",
+    "location":"L",
+    "id":"L012e"
+  },
+  {
+    "Category":">Banks & ATMS",
+    "name":"BPI Express",
+    "location":"1",
+    "id":"1085/1086"
+  },
+  {
+    "Category":">Banks & ATMS",
+    "name":"BPI Express Banking Center",
+    "location":"1",
+    "id":"1023a"
+  },
+  {
+    "Category":">Banks & ATMS",
+    "name":"Chinabank",
+    "location":"L",
+    "id":"L002"
+  },
+  {
+    "Category":">Banks & ATMS",
+    "name":"RCBC",
+    "location":"L",
+    "id":"L015b"
+  },
+  {
+    "Category":">Bookstores",
+    "name":"Fully Booked",
+    "location":"L",
+    "id":"L007b/L008a/L008b"
+  },
+  {
+    "Category":">Bookstores",
+    "name":"National Bookstore",
+    "location":"1",
+    "id":"1027"
+  },
+  {
+    "Category":">Bookstores",
+    "name":"Powerbooks",
+    "location":"3",
+    "id":"3070a"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Animaland",
+    "location":"3",
+    "id":"3049a"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Annil",
+    "location":"3",
+    "id":"3049c"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Barbie",
+    "location":"3",
+    "id":"3048c"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Big & Small ",
+    "location":"1",
+    "id":"1151a"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Cuts for Tots",
+    "location":"3",
+    "id":"3112i"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Build City",
+    "location":"3",
+    "id":"3046"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Florsheim Kids",
+    "location":"3",
+    "id":"3112g"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Gift Factory",
+    "location":"3",
+    "id":"3048a"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Gingersnaps",
+    "location":"1",
+    "id":"1035b"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Guess Kids",
+    "location":"3",
+    "id":"3048b"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Gymbaree",
+    "location":"3",
+    "id":"3050b/3051"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Hobbes and Landes",
+    "location":"3",
+    "id":"3046"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Jump",
+    "location":"3",
+    "id":"3048d"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Kevin's Toys and Library",
+    "location":"3",
+    "id":"3112f"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Kidsports",
+    "location":"3",
+    "id":"3049b"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Lacoste Kids",
+    "location":"3",
+    "id":"3080"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Little Martians",
+    "location":"4",
+    "id":"4037a"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Meet My Feet",
+    "location":"3",
+    "id":"3112h"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Mothercare",
+    "location":"3",
+    "id":"3050a"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Osh Kosh",
+    "location":"3",
+    "id":"3112d"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Periwinkle",
+    "location":"3",
+    "id":"3112e"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Pois Belly and Kids",
+    "location":"1",
+    "id":"1035a"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Stride Rite",
+    "location":"3",
+    "id":"3080"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Toys R Us",
+    "location":"3",
+    "id":"3067"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Wishbarn",
+    "location":"3",
+    "id":"3052"
+  },
+  {
+    "Category":">Children's Shops",
+    "name":"Youji and Me",
+    "location":"3",
+    "id":"3055"
+  },
+  {
+    "Category":">Clinics",
+    "name":"Asian Eye Institute",
+    "location":"1",
+    "id":"1008"
+  },
+  {
+    "Category":">Clinics",
+    "name":"Del Mundo Family Eye Clinic",
+    "location":"2",
+    "id":"2058"
+  },
+  {
+    "Category":">Clinics",
+    "name":"The Medical City",
+    "location":"1",
+    "id":"1009/1010a/1010b"
+  },
+  {
+    "Category":">Clinics",
+    "name":"The Medical City",
+    "location":"P",
+    "id":"P020"
+  },
+  {
+    "Category":">Clinics",
+    "name":"Tri Cosmedx",
+    "location":"1",
+    "id":"1123"
+  }
+]}

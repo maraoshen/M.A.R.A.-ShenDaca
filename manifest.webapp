@@ -1,0 +1,12 @@
+{
+  "name": "Trinoma Store Locator",
+  "description": "a mobile store locator for Trinoma",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon.png"
+  },
+  "developer": {
+    "name": "M.A.R.A. ShenDaca"
+  },
+  "default_locale": "en"
+}
